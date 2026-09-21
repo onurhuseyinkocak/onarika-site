@@ -1,0 +1,8 @@
+ONARIKA GitHub Pages preflight
+generated_at=2026-09-21T13:54:13Z
+
+== current Pages state ==
+{"url":"https://api.github.com/repos/onurhuseyinkocak/onarika-site/pages","status":"building","cname":"onarika.net","custom_404":true,"html_url":"http://onarika.net/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":false}get_exit=0
+
+== post-deploy Pages state ==
+{"url":"https://api.github.com/repos/onurhuseyinkocak/onarika-site/pages","status":"built","cname":"onarika.net","custom_404":true,"html_url":"http://onarika.net/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":false}
